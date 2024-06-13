@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Malith</h1>
-<h3 align="center">Right now, I'm an undergraduate at the University of Columbo.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ManugaK&label=Profile%20views&color=0e75b6&style=flat" alt="ManugaK" /> </p>
 
+<h1 align="center">Hi 👋, I'm Malith Dilhara</h1>
+<h3 align="center">Right now, I'm an undergraduate at the University of Columbo.</h3>
 <div align="center">
   <a href="https://github.com/Adityakanoi2001/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -9,8 +8,6 @@
 </div>
 
 <hr>
-<h1 align="center">Hi 👋, I'm Malith Dilhara</h1>
-<h3 align="center">Right now, I'm an undergraduate at the University of Columbo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malithdn&label=Profile%20views&color=0e75b6&style=flat" alt="malithdn" /> </p>
 
