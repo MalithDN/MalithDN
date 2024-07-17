@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 Right now, I'm an undergraduate at the University of Columbo.
-❓ Ask me about anything related to MERN stack and related technologies
+🌱 Right now, I'm an undergraduate at the University of Columbo.<br>
+❓ Ask me about anything related to MERN stack and related technologies<br>
 ⚡ Fun fact: I use tabs over spaces
 
 
