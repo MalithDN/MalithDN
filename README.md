@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 # 💫 About Me:
 Right now, I'm an undergraduate at the University of Columbo.
 
