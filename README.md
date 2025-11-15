@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 25%, #0d1117 50%, #161b22 75%, #0d1117 100%); padding: 40px; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -22,6 +22,8 @@
 
 ## 🚀 About Me
 
+<div style="background: linear-gradient(90deg, #161b22 0%, #0d1117 50%, #161b22 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #00d9ff; box-shadow: inset 0 2px 8px rgba(0, 217, 255, 0.05);">
+
 ```javascript
 const developer = {
   name: "Malith Dilhara",
@@ -40,6 +42,8 @@ const developer = {
 - 🔬 Exploring AI/ML and emerging technologies
 - 💪 Open to collaboration and learning opportunities
 
+</div>
+
 ---
 
 ## 🌐 Connect & Follow
@@ -56,10 +60,10 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08);">
 
 ### 🔤 **LANGUAGES**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>C</b><br/><img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C"></td>
 <td align="center" width="110"><b>C++</b><br/><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></td>
@@ -71,8 +75,10 @@ const developer = {
 </tr>
 </table>
 
+<br/>
+
 ### 🎨 **FRONTEND**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>HTML5</b><br/><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></td>
 <td align="center" width="110"><b>CSS3</b><br/><img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></td>
@@ -80,8 +86,10 @@ const developer = {
 </tr>
 </table>
 
+<br/>
+
 ### ⚙️ **BACKEND & FRAMEWORKS**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>Node.js</b><br/><img src="https://img.shields.io/badge/Node.js-%236DA55F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
 <td align="center" width="110"><b>Express</b><br/><img src="https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white" alt="Express"></td>
@@ -89,8 +97,10 @@ const developer = {
 </tr>
 </table>
 
+<br/>
+
 ### 🗄️ **DATABASES**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>MongoDB</b><br/><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></td>
 <td align="center" width="110"><b>MySQL</b><br/><img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></td>
@@ -98,8 +108,10 @@ const developer = {
 </tr>
 </table>
 
+<br/>
+
 ### ☁️ **CLOUD & DEVOPS**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>AWS</b><br/><img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"></td>
 <td align="center" width="110"><b>Cloudflare</b><br/><img src="https://img.shields.io/badge/Cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"></td>
@@ -107,8 +119,10 @@ const developer = {
 </tr>
 </table>
 
+<br/>
+
 ### 🔧 **TOOLS & LIBRARIES**
-<table>
+<table style="background: transparent;">
 <tr>
 <td align="center" width="110"><b>JWT</b><br/><img src="https://img.shields.io/badge/JWT-%23000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"></td>
 <td align="center" width="110"><b>Apache</b><br/><img src="https://img.shields.io/badge/Apache-%23D42029?style=flat-square&logo=apache&logoColor=white" alt="Apache"></td>
@@ -124,15 +138,15 @@ const developer = {
 
 ## 📊 GitHub Insights
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08); margin: 20px 0;">
 
-<h3>⚡ Activity Stats</h3>
+<h3 style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.3);">⚡ Activity Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalithDN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalithDN&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=00d9ff&dates=ffffff)
 
-<h3>🎯 Language Distribution</h3>
+<h3 style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.3);">🎯 Language Distribution</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalithDN&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
 
@@ -142,7 +156,7 @@ const developer = {
 
 ## 💡 Dev Wisdom
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #ff6b6b; margin: 20px 0;">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -152,7 +166,7 @@ const developer = {
 
 ## 🏆 Top Repositories
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08); margin: 20px 0;">
 
 ![Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MalithDN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -160,7 +174,7 @@ const developer = {
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 30px; border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.15); margin-top: 30px;">
 
 ## 🎖️ Profile Engagement
 
@@ -174,6 +188,6 @@ const developer = {
 ████████████████████████████████████ 100% | Always Learning 🚀
 ```
 
-<sub>**Last Updated:** November 2025</sub>
+<sub>**Last Updated:** November 2025 | **Theme:** Dark Mode</sub>
 
 </div>
