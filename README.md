@@ -1,193 +1,144 @@
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 25%, #0d1117 50%, #161b22 75%, #0d1117 100%); padding: 40px; border-radius: 20px; border: 2px solid #30363d; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+# MALITH DILHARA
 
-<br/>
+### Full-Stack Developer | MERN Stack Specialist | University of Colombo
 
-# 💻 MALITH DILHARA
-
-### Full-Stack Developer | MERN Specialist | Tech Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Exploring+emerging+technologies;Turning+ideas+into+reality)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98e88688-d7c3-44b4-b3fb-341f2fa4c5c2.gif" width="500">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Exploring+modern+technologies)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-<div style="background: linear-gradient(90deg, #161b22 0%, #0d1117 50%, #161b22 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #00d9ff; box-shadow: inset 0 2px 8px rgba(0, 217, 255, 0.05);">
+## 👨‍💻 About Me
 
 ```javascript
-const developer = {
-  name: "Malith Dilhara",
+const malith = {
+  education: "University of Colombo",
   role: "Full-Stack Developer",
-  location: "University of Colombo",
-  specialization: "MERN Stack",
-  passion: "Scalable Web Applications",
-  fun_fact: "tabs > spaces 🎯",
-  status: "Always Learning 🔥"
-}
+  focus: "MERN Stack Development",
+  interests: ["Web Development", "Cloud Computing", "AI/ML"],
+  currentlyLearning: "Advanced System Design",
+  lookingFor: "Collaboration & Learning Opportunities"
+};
 ```
 
-- 🎓 Undergraduate at the University of Colombo
-- 🔧 Building production-ready applications with modern tech stacks
-- 🌟 Passionate about clean code and best practices
-- 🔬 Exploring AI/ML and emerging technologies
-- 💪 Open to collaboration and learning opportunities
-
-</div>
+🎓 **Education:** Undergraduate at the University of Colombo  
+💼 **Specialization:** Building production-ready web applications with modern technologies  
+🌱 **Learning:** Continuously exploring emerging technologies and best practices  
+🎯 **Goal:** Contributing to impactful projects and growing as a developer  
 
 ---
 
-## 🌐 Connect & Follow
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0e27)](https://facebook.com/MalithDilhara)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0e27)](https://youtube.com/@CreativeVibes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27)](https://linkedin.com/in/MalithDilhara)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27)](https://github.com/MalithDN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:malith@example.com)
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08);">
-
-### 🔤 **LANGUAGES**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>C</b><br/><img src="https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C"></td>
-<td align="center" width="110"><b>C++</b><br/><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></td>
-<td align="center" width="110"><b>JavaScript</b><br/><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></td>
-<td align="center" width="110"><b>Python</b><br/><img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
-<td align="center" width="110"><b>Java</b><br/><img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td>
-<td align="center" width="110"><b>PHP</b><br/><img src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></td>
-<td align="center" width="110"><b>Ruby</b><br/><img src="https://img.shields.io/badge/Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"></td>
-</tr>
-</table>
-
-<br/>
-
-### 🎨 **FRONTEND**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>HTML5</b><br/><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></td>
-<td align="center" width="110"><b>CSS3</b><br/><img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></td>
-<td align="center" width="110"><b>React</b><br/><img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></td>
-</tr>
-</table>
-
-<br/>
-
-### ⚙️ **BACKEND & FRAMEWORKS**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>Node.js</b><br/><img src="https://img.shields.io/badge/Node.js-%236DA55F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
-<td align="center" width="110"><b>Express</b><br/><img src="https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white" alt="Express"></td>
-<td align="center" width="110"><b>Laravel</b><br/><img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></td>
-</tr>
-</table>
-
-<br/>
-
-### 🗄️ **DATABASES**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>MongoDB</b><br/><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"></td>
-<td align="center" width="110"><b>MySQL</b><br/><img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></td>
-<td align="center" width="110"><b>MariaDB</b><br/><img src="https://img.shields.io/badge/MariaDB-%23003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"></td>
-</tr>
-</table>
-
-<br/>
-
-### ☁️ **CLOUD & DEVOPS**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>AWS</b><br/><img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"></td>
-<td align="center" width="110"><b>Cloudflare</b><br/><img src="https://img.shields.io/badge/Cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"></td>
-<td align="center" width="110"><b>GitHub Actions</b><br/><img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></td>
-</tr>
-</table>
-
-<br/>
-
-### 🔧 **TOOLS & LIBRARIES**
-<table style="background: transparent;">
-<tr>
-<td align="center" width="110"><b>JWT</b><br/><img src="https://img.shields.io/badge/JWT-%23000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"></td>
-<td align="center" width="110"><b>Apache</b><br/><img src="https://img.shields.io/badge/Apache-%23D42029?style=flat-square&logo=apache&logoColor=white" alt="Apache"></td>
-<td align="center" width="110"><b>PyTorch</b><br/><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"></td>
-<td align="center" width="110"><b>Adobe</b><br/><img src="https://img.shields.io/badge/Adobe-%23FF0000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"></td>
-</tr>
-</table>
-
-</div>
----
-
----
-
-## 📊 GitHub Insights
-
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08); margin: 20px 0;">
-
-<h3 style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.3);">⚡ Activity Stats</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalithDN&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MalithDN&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=00d9ff&dates=ffffff)
-
-<h3 style="color: #00d9ff; text-shadow: 0 0 10px rgba(0, 217, 255, 0.3);">🎯 Language Distribution</h3>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalithDN&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00d9ff&icon_color=00d9ff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MalithDilhara)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalithDN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malith@example.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/MalithDilhara)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CreativeVibes)
 
 </div>
 
 ---
 
-## 💡 Dev Wisdom
+## 🛠️ Technical Skills
 
-<div align="center" style="background: linear-gradient(90deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #ff6b6b; margin: 20px 0;">
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Tools & Technologies
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MalithDN&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalithDN&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalithDN&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="400"/>
 
 </div>
 
 ---
 
-## 🏆 Top Repositories
+## 🏆 GitHub Achievements
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 15px; border: 1px solid #30363d; box-shadow: 0 4px 16px rgba(0, 217, 255, 0.08); margin: 20px 0;">
+<div align="center">
 
-![Contributed Repos](https://github-contributor-stats.vercel.app/api?username=MalithDN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MalithDN&theme=discord&no-frame=true&row=1&column=6)
 
 </div>
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%); padding: 30px; border-radius: 15px; border: 2px solid #00d9ff; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.15); margin-top: 30px;">
+## 📈 Contribution Activity
 
-## 🎖️ Profile Engagement
+<div align="center">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MalithDN&icon=0&color=0&useVimBadge=true" alt="Visit Count"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MalithDN&theme=github-compact&hide_border=true&area=true)
 
-### 🌟 _Building the future, one commit at a time._
+</div>
 
-```
-████████████████████████████████████ 100% | Always Learning 🚀
-```
+---
 
-<sub>**Last Updated:** November 2025 | **Theme:** Dark Mode</sub>
+## 💼 Professional Focus
+
+- ✅ **Full-Stack Development** with MERN stack
+- ✅ **RESTful API** design and implementation
+- ✅ **Database** design and optimization
+- ✅ **Cloud Deployment** and DevOps practices
+- ✅ **Clean Code** principles and best practices
+- ✅ **Agile** development methodologies
+
+---
+
+<div align="center">
+
+### 📫 Open to Opportunities
+
+**Available for:** Full-time positions | Internships | Freelance projects | Collaborations
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MalithDN&color=58A6FF&style=for-the-badge&label=Profile+Views)](https://github.com/MalithDN)
+
+---
+
+*"Committed to writing clean, maintainable code and building solutions that make a difference."*
+
+**⭐ From [MalithDN](https://github.com/MalithDN)**
 
 </div>
