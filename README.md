@@ -81,7 +81,7 @@ const malithDilhara = {
     role: "Full-Stack Developer",
     
     specializations: [
-        "MERN Stack Development",
+        "Full-Stack Development",
         ".NET / ASP.NET Core",
         "RESTful API Design",
         "Modern UI/UX with Framer Motion",
