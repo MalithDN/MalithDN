@@ -372,42 +372,6 @@ UI/UX Design, Database Design
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<h1 align="center">
-  🎯 Featured Projects
-</h1>
-
-<div align="center">
-
-<p align="center">
-  <i>Explore my portfolio for detailed project showcases</i>
-  <br>
-  <a href="https://malithdilharadev.vercel.app">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- Project Cards - Replace with your actual repositories -->
-<a href="https://github.com/MalithDN/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalithDN&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
-</a>
-<a href="https://github.com/MalithDN/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalithDN&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/MalithDN/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalithDN&repo=project3&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
-</a>
-<a href="https://github.com/MalithDN/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MalithDN&repo=project4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=20" />
-</a>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ANIMATED DIVIDER -->
