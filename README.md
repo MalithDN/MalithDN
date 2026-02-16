@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=MALITH%20DILHARA&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%E2%9A%A1%20MERN%20%26%20.NET%20Specialist%20%E2%9A%A1%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=22"/>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
