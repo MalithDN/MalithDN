@@ -9,7 +9,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%9A%80+Building+Next-Gen+Web+Applications;%F0%9F%92%BB+MERN+%7C+.NET+%7C+TypeScript+Expert;%F0%9F%8E%A8+Modern+UI%2FUX+with+Framer+Motion;%E2%9C%A8+RESTful+API+%26+Auth+Specialist;%F0%9F%94%A5+Docker+%7C+Prisma+%7C+Cloud+Solutions;%F0%9F%8E%AF+Clean+Code+%7C+Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%9A%80+Building+Next-Gen+Web+Applications;%F0%9F%92%BB+Full-Stack+%7C+.NET+%7C+TypeScript+Expert;%F0%9F%8E%A8+Modern+UI%2FUX+with+Framer+Motion;%E2%9C%A8+RESTful+API+%26+Auth+Specialist;%F0%9F%94%A5+Docker+%7C+Prisma+%7C+Cloud+Solutions;%F0%9F%8E%AF+Clean+Code+%7C+Always+Learning" alt="Typing Animation" />
 </p>
 
 <!-- Profile Stats Badges -->
